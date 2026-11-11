@@ -1,0 +1,21 @@
+{
+  "approved_version": "VER 3",
+  "font_version": "1.003",
+  "family": "Departure Mono",
+  "postscript_name": "DepartureMono-Regular",
+  "formats": [
+    "otf",
+    "ttf",
+    "woff",
+    "woff2"
+  ],
+  "vietnamese_characters": 134,
+  "word_gate": "passed for all four files",
+  "kit_branding_in_metadata": false,
+  "sha256": {
+    "DepartureMono-Regular.otf": "824ee9d6e3d7bbb2bf79d7692a582bdb57c8f78d8df320c91be81e0ac25cf7dc",
+    "DepartureMono-Regular.ttf": "518931222cc5e444084d85e47b207dc5949389757c0f79d48e54000c3166cad7",
+    "DepartureMono-Regular.woff": "2f74e43ed3b9a0e3355f0ef571c3a2df1cc5c55beb2d8d7dfac86698e8b965f8",
+    "DepartureMono-Regular.woff2": "04adb5a883d2a75810479723990f435bae4533f16ca7e9b683cdfa04585e63b6"
+  }
+}

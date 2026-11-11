@@ -1,0 +1,36 @@
+== DepartureMono-Regular.otf
+  ✓ Đủ chữ Việt    thiếu: — · rỗng: —
+  ✓ Đỉnh dòng Word USE_TYPO_METRICS bật · Word lấy đỉnh 800 · chữ bị cắt: —
+  ✓ Win ≥ mực      win 800 / 150 · mực 750 / -150
+  ✓ Cờ tiếng Việt  code page 1258 có
+  ✓ Hinting        không có hinting
+  ✓ GSUB / GPOS    tính năng khai 2 lần: —
+  ✓ Độ rộng CFF    lệch hmtx: —
+KIỂM WORD: ĐẠT
+== DepartureMono-Regular.ttf
+  ✓ Đủ chữ Việt    thiếu: — · rỗng: —
+  ✓ Đỉnh dòng Word USE_TYPO_METRICS bật · Word lấy đỉnh 800 · chữ bị cắt: —
+  ✓ Win ≥ mực      win 800 / 150 · mực 750 / -150
+  ✓ Cờ tiếng Việt  code page 1258 có
+  ✓ Hinting        không có hinting
+  ✓ GSUB / GPOS    tính năng khai 2 lần: —
+  ✓ lsb = xMin     lệch: —
+KIỂM WORD: ĐẠT
+== DepartureMono-Regular.woff
+  ✓ Đủ chữ Việt    thiếu: — · rỗng: —
+  ✓ Đỉnh dòng Word USE_TYPO_METRICS bật · Word lấy đỉnh 800 · chữ bị cắt: —
+  ✓ Win ≥ mực      win 800 / 150 · mực 750 / -150
+  ✓ Cờ tiếng Việt  code page 1258 có
+  ✓ Hinting        không có hinting
+  ✓ GSUB / GPOS    tính năng khai 2 lần: —
+  ✓ Độ rộng CFF    lệch hmtx: —
+KIỂM WORD: ĐẠT
+== DepartureMono-Regular.woff2
+  ✓ Đủ chữ Việt    thiếu: — · rỗng: —
+  ✓ Đỉnh dòng Word USE_TYPO_METRICS bật · Word lấy đỉnh 800 · chữ bị cắt: —
+  ✓ Win ≥ mực      win 800 / 150 · mực 750 / -150
+  ✓ Cờ tiếng Việt  code page 1258 có
+  ✓ Hinting        không có hinting
+  ✓ GSUB / GPOS    tính năng khai 2 lần: —
+  ✓ Độ rộng CFF    lệch hmtx: —
+KIỂM WORD: ĐẠT

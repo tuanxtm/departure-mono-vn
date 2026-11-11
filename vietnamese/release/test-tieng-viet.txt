@@ -1,0 +1,29 @@
+Departure Mono Regular · VER 3 · Version 1.003
+Vietnamese adaptation by tuantm. Original font by Helena Zhang.
+Install either OTF or TTF; only one desktop format is needed.
+Close applications, uninstall an older Departure Mono build, install, then reopen.
+WOFF and WOFF2 are for websites. Use multiples of 11 px for pixel alignment.
+
+1. Stacked accents
+ẦẤẨẪẬ ẰẮẲẴẶ ỀẾỂỄỆ ỒỐỔỖỘ ỜỚỞỠỢ ỪỨỬỮỰ ỲÝỶỸỴ ÌÍỈĨỊ
+ầấẩẫậ ằắẳẵặ ềếểễệ ồốổỗộ ờớởỡợ ừứửữự ỳýỷỹỵ ìíỉĩị
+
+2. Vietnamese character coverage
+aàáảãạ ăằắẳẵặ âầấẩẫậ eèéẻẽẹ êềếểễệ iìíỉĩị oòóỏõọ ôồốổỗộ ơờớởỡợ uùúủũụ ưừứửữự yỳýỷỹỵ đ
+AÀÁẢÃẠ ĂẰẮẲẴẶ ÂẦẤẨẪẬ EÈÉẺẼẸ ÊỀẾỂỄỆ IÌÍỈĨỊ OÒÓỎÕỌ ÔỒỐỔỖỘ ƠỜỚỞỠỢ UÙÚỦŨỤ ƯỪỨỬỮỰ YỲÝỶỸỴ Đ
+
+3. Sample text
+ả ẻ ỉ ỏ ủ ỷ · nghỉ, tỉ mỉ, kỉ niệm · uppercase: Ỉ
+Người ươn ưa, cửa, TƯƠNG LAI · thưởng thức, mười, ưu tú, ƯỚC MƠ
+Phố cổ, “cổ,” ấm áp, ồn ào · ẨM THỰC · ủy ban, ỦY BAN · đã ĐƯỢC ghi nhận
+
+4. Line metrics
+Character advance: 350 units; combining marks: 0; pixel: 50; UPM: 550.
+Ascent / descent: 800 / 150. Highest ink: 750 (Ẳ Ẩ Ể Ổ); lowest ink in the full font: -150.
+Default lines are 35.7% taller than upstream to fit stacked accents, as approved in VER 3.
+
+5. Precomposed Unicode (NFC)
+Người chỉ nghỉ ở cửa.
+
+6. Decomposed Unicode (NFD), should look identical to section 5
+Người chỉ nghỉ ở cửa.
