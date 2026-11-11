@@ -1,0 +1,26 @@
+name: Validate Vietnamese fonts
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/requirements-vietnamese.txt
+      - name: Install validation dependencies
+        run: python -m pip install -r scripts/requirements-vietnamese.txt
+      - name: Install Chromium
+        run: python -m playwright install --with-deps chromium
+      - name: Validate release fonts and package
+        run: python -m unittest discover -s scripts -p test_vietnamese_export.py -v

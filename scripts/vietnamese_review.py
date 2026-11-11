@@ -116,7 +116,7 @@ def main():
             init = "var BY={};D.chars.forEach(function(c){BY[c.ch]=c;});"
             assert init in page
             page = page.replace(init, init + switch)
-        path.write_text(page)
+        path.write_text(re.sub(r'(?m)^[ \t]+$', '', page))
     print(output)
 
 
